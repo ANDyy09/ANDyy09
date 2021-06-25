@@ -1,0 +1,5 @@
+- 👋 Hi, I’m ANDY
+- 👀 I’m interested in Programming(JavaScript)
+- 🌱 I’m currently learning Web Development
+- 💞️ I’m soon going to make my own website
+- 📫 You can reach me by DMing on insta @burt.guy or you can mail me @debnathshivraj44@gmail.com
