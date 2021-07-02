@@ -1,5 +1,10 @@
-- 👋 Hi, I’m ANDY
-- 👀 I’m interested in Programming(JavaScript)
+### Hi there, I'm ANDY 👋
+
+## I'm a Student and a Passionate Programmer !! 
+
+- 👀 I love Programming a lot
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m soon going to make my own website
-- 📫 You can reach me by DMing on insta @__shiv_rajj__ or you can mail me @debnathshivraj44@gmail.com
+- 🥅 2021 Goals: Become a Web Developer
+- ⚡ Fun fact: I love to draw and play guitar
+- 🚲 And, I love Cycling
