@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://instagram.com/__shiv_rajj__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="My Instagram" height="30" width="40" /></a>
 <a href="https://twitter.com/dnshivraj_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="korrykatti" height="30" width="40" /></a>
-<a href="https://dsc.lol/nchill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Our Discord Server" height="40" width="50" /></a>
+<a href="https://dsc.lol/nchill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Our Discord Server" height="35" width="50" /></a>
 </p>
 
 
