@@ -12,6 +12,8 @@
 - ⚡ Fun fact: I love to draw and play guitar
 - 🚲 And, I love Cycling
 
+<h3 align="left">Connect with me:</h3>
+
 
 
 
