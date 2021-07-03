@@ -2,7 +2,7 @@
 
 <h3 align="center"> I'm a Student and a Passionate Programmer from India!! </h3> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ANDyy09&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ANDyy09&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/> <img src="https://img.shields.io/github/followers/ANDyy09?label=Followers&style=social" alt="Followers"/></p>
 
 - 👀 I love Programming a lot
 - 🌱 I’m currently learning Web Development
