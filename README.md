@@ -34,7 +34,7 @@
 </p>
 
 <h2>My Github Stats</h2>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andyy09&theme=tokyonight_icons=true" alt="andyy09" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andyy09&theme=algolia_icons=true" alt="andyy09" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andyy09&" alt="andyy09" /></p>
 
