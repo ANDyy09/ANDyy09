@@ -4,14 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ANDyy09&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/> <img src="https://img.shields.io/github/followers/ANDyy09?label=Followers&style=social" alt="Followers"/></p>
 
-<h4>- 👀 I love Programming a lot <br>
+<h2>About Me</h2>
+<h3>- 👀 I love Programming a lot <br>
 - 🌱 I’m currently learning Web Development <br>
 - 💞️ I’m soon going to make my own website <br>
 - 💬 Ask me about HTML and CSS <br>
 - 📫 My Email debnathshivraj44@gmail.com <br>
 - 🥅 2021 Goals: Become a Web Developer <br>
 - ⚡ Fun fact: I love to draw and play guitar <br>
-- 🚲 And, I love Cycling</h4>
+- 🚲 And, I love Cycling</h3>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
