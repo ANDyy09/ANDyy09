@@ -14,8 +14,6 @@
 - ⚡ Fun fact: I love to draw and play guitar <br>
 - 🚲 And, I love Cycling</h3>
 
-<hl>
-
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://instagram.com/__shiv_rajj__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="My Instagram" height="30" width="40" /></a>
@@ -35,6 +33,7 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
+<h2>My Github Stats</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andyy09&show_icons=true&locale=en&layout=compact" alt="andyy09" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andyy09&show_icons=true&locale=en" alt="andyy09" /></p>
