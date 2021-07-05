@@ -33,6 +33,9 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
+<h2>Spotify Playing</h2>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1fr6leqdanl9b2rrv25yln71l&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=1fr6leqdanl9b2rrv25yln71l&redirect=true)
+
 <h2>My Github Stats</h2>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andyy09&theme=tokyonight&show_icons=true" alt="andyy09" /></p>
 
