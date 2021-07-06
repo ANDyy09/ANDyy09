@@ -2,7 +2,7 @@
 
 <h2 align="center"> I'm a Student and a Passionate Programmer from India!! </h2> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ANDyy09&label=Profile%20views&color=brightgreen" alt="Profile Views"/> <img src="https://img.shields.io/github/followers/ANDyy09?label=Followers&style=social" alt="Followers"/></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ANDyy09&label=Profile%20views&color=brightgreen&style=plastic" alt="Profile Views"/> <img src="https://img.shields.io/github/followers/ANDyy09?label=Followers&style=social" alt="Followers"/></p>
 
 <h2>About Me</h2>
 <h3>- 👀 I love Programming a lot <br>
