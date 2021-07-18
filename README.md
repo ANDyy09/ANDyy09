@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Web Development <br>
 - 💞️ I’m soon going to make my own website <br>
 - 💬 Ask me about HTML and CSS <br>
-- 📫 My Email <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTHWJVGNTmzGcSZFcVSRkkHTtSVnbnvLbQXZJXfHpxdSfZNgGfzQNbHTlMcDXwQMFbtcQq>"debnathshivraj44@gmail.com</a> <br>
+- 📫 My Email <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTHWJVGNTmzGcSZFcVSRkkHTtSVnbnvLbQXZJXfHpxdSfZNgGfzQNbHTlMcDXwQMFbtcQq">debnathshivraj44@gmail.com</a> <br>
 - 🥅 2021 Goals: Become a Web Developer <br>
 - ⚡ Fun fact: I love to draw and play guitar <br>
 - 🚲 And, I love Cycling</h3>
