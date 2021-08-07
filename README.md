@@ -22,7 +22,7 @@
 <a href="https://www.leetcode.com/andyy09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="andyy09" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shivraj debnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivraj debnath" height="30" width="40" /></a>
 </p>
-<p>Join a very <a href="https://dsc.lol/nchill">Cool Discord Server</a></p>
+<p>Join a very <a href="https://dsc.gg/nchill-2.0">Cool Discord Server</a></p>
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
